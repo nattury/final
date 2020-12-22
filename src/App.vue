@@ -11,7 +11,7 @@
       </ul>
     </header>
 
-<main class="principal">
+<!-- <main class="principal">
        <div class="contenedor">
             <ul class="redes">
                 <li class="sociales"><a href="https://mail.google.com/" target="_blank" class="link_redes"></a><i class="fa fa-at gmail icon"></i></li>
@@ -24,7 +24,7 @@
             It is nice to see you. <br><br>
             It is a pleasure for us that you come to our facilities. Here will be the place where you will be <br>
             like home with the most comfortable and relaxing rooms and service.</p>
-    </main>
+    </main> -->
 
     <div class="main-component">
       <router-view></router-view>
@@ -94,15 +94,15 @@ body {
   width: 29%;
 }
 
-.principal{
+/* .principal{
     display: grid;
     grid-template-columns: 1fr 4fr;
-}
+} */
 /* .info{
     padding-top: 30%;
   } */
 
-.contenedor {
+/* .contenedor {
     height: 300px;
     width: 300px;
     margin: 120px 0;
@@ -163,7 +163,7 @@ body {
 .facebook{
     position: relative;
     left: 30px;
-    }
+    } */
 
     
 </style>
