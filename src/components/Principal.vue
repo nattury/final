@@ -15,7 +15,7 @@
             like home with the most comfortable and relaxing rooms and service.</p>
     </main>
     <footer class="foot">
-      <p>Book with us <br />and enjoy special benefits</p>
+      <p class="textfoot">Book with us <br />and enjoy special benefits</p>
       <ul class="menubajo">
         <li><a class="links" href="/locate">Locate</a></li>
         <li>
@@ -154,11 +154,17 @@ export default {
   .links{
     padding: 10px;
   }
+  .textfoot{
+    display: none;
+  }
   }
 
   @media(max-width: 550px){
     .contenedor{
-    width: 15%;
+    width: 18%;
+  }
+  .principal{
+    padding-bottom: 20px;
   }
   .foot{
     padding-top: 20px;
