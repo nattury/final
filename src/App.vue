@@ -105,9 +105,13 @@ body {
   .comun{
     font-size: 22px;
   }
-  
+
   .logo{
     width: 200px;
+  }
+
+  .links{
+    padding: 10px;
   }
 }
     
