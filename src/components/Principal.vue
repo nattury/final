@@ -104,7 +104,7 @@ export default {
     }
 
 .info {
-  padding-top: 40%;
+  padding-top: 180px;
   width: 80%;
 }
 
