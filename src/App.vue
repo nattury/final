@@ -90,80 +90,15 @@ body {
   padding: 40px ;
   margin: 10px;
 }
+
 .logo{
   width: 29%;
 }
 
-/* .principal{
-    display: grid;
-    grid-template-columns: 1fr 4fr;
-} */
-/* .info{
-    padding-top: 30%;
-  } */
-
-/* .contenedor {
-    height: 300px;
-    width: 300px;
-    margin: 120px 0;
+@media screen and (min-width: 800px){
+  body{
+    background: #ff8000;
+  }
 }
-
-.redes {
-    margin-left: 0.3%;
-    width: 70%;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    cursor: pointer;
-    position: fixed;
-}
-
-.sociales {
-    position: relative;
-    transform: translateX(-50px);
-    background: rgba(50, 50, 85, 0.418);
-    list-style: none;
-    padding: 10px 0;
-    transition: 0.5s;
-    width: 100px;
-    border-radius: 0 200px 200px 0;
-    cursor: pointer;
-
-}
-
-.sociales:hover:nth-child(1){
-    background:  #42858a;
-}
-.sociales:hover:nth-child(2){
-    background: #42858a;
-}
-.sociales:hover:nth-child(3){
-    background:  #42858a;
-}
-.sociales:hover{
-    transform: translateX(0);
-}
-.link_redes{
-    font-weight: bold;
-    color: #fff;
-    text-decoration: none;
-    padding-left: 10px;
-}
-
- 
-.gmail{
-    position: relative;
-    left: 30px;
-}
-.twitter{
-    position: relative;
-    left: 30px;
-}
-.facebook{
-    position: relative;
-    left: 30px;
-    } */
-
     
 </style>

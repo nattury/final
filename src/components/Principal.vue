@@ -46,7 +46,7 @@ export default {
 }
 
 .redes {
-    margin-left: 0.3%;
+    margin-left: 2%;
     width: 70%;
     overflow: hidden;
     display: flex;
