@@ -111,9 +111,9 @@ export default {
   color: #fff;
   width: 20%;
 }
-.principal {
+/* .principal {
   display: none;
-}
+} */
 .document {
   height: 300px;
   width: 300px;

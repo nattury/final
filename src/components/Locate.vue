@@ -29,9 +29,9 @@ export default {
 }
 </script>
 <style>
-.principal{
+/* .principal{
     display: none;
-}
+} */
 
 .map{
     display:flex;

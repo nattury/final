@@ -26,9 +26,9 @@ export default {
 };
 </script>
 <style >
-.principal {
+/* .principal {
   display: none;
-}
+} */
 
 .description{
 background: rgba(118, 164, 175, 0.459);

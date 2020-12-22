@@ -158,9 +158,9 @@ export default {
 </script>
 
 <style>
-.principal {
+/* .principal {
   display: none;
-}
+} */
 
 .check-in {
   margin-left: 42%;

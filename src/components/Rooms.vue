@@ -93,9 +93,9 @@ export default {
 </script>
 
 <style>
- .principal {
+ /* .principal {
   display: none;
-}
+} */
   .carrusel{
     height: 60%;
     width: 70%;
