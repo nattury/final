@@ -16,7 +16,7 @@
     </main>
     <footer class="foot">
       <p>Book with us <br />and enjoy special benefits</p>
-      <ul>
+      <ul class="menubajo">
         <li><a class="links" href="/locate">Locate</a></li>
         <li>
           <a class="links" href="https://www.apple.com/co/app-store/" target="_blank"
@@ -132,6 +132,10 @@ export default {
 }
 .foot a:visited {
   color: white;
+}
+
+.menubajo{
+  width:70%;
 }
 
 @media(max-width: 800px){

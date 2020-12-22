@@ -87,7 +87,7 @@ body {
 
 .links {
   text-decoration: none;
-  padding: 5%;
+  padding: 40px;
   margin: 10px;
 }
 
