@@ -132,4 +132,10 @@ export default {
 .foot a:visited {
   color: white;
 }
+
+@media(max-width: 800px){
+  .foot {
+  height: 28%;
+  }}
+  
 </style>
