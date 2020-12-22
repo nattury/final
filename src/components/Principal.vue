@@ -105,7 +105,7 @@ export default {
 
 .info {
   padding-top: 40%;
-  width: 60%;
+  width: 80%;
 }
 
 .foot {
@@ -142,6 +142,10 @@ export default {
 @media(max-width: 800px){
   .foot {
     width: 90%;
+  }
+
+  .contenedor{
+    width: 60%;
   }
   }
   
