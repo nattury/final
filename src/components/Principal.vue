@@ -147,6 +147,10 @@ export default {
   .contenedor{
     width: 10%;
   }
+
+  .foot{
+    padding: 0 20px;
+  }
   }
   
 </style>
