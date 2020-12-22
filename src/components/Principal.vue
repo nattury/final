@@ -20,7 +20,7 @@
         <li><a class="links" href="/locate">Locate</a></li>
         <li>
           <a class="links" href="https://www.apple.com/co/app-store/" target="_blank"
-            >Download App</a
+            >Download&nbsp;&nbsp;App</a
           >
         </li>
         <li><a class="links" href="">Guest</a></li>
