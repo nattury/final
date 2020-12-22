@@ -1,6 +1,6 @@
 <template>
   <div class="comun">
-    <header>
+    <header class="encabezado">
       <a href="/"><img src="./assets/logo.png" class="logo" alt="logo"></a>
       
       <ul class="menu">
@@ -62,7 +62,7 @@ body {
   background-size: cover;
 }
 
-header {
+.encabezado {
   display: flex;
   justify-content: space-between;
   /* padding: 30px 40px; */
