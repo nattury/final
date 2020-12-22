@@ -149,7 +149,10 @@ export default {
   }
 
   .foot{
-    padding: 0 20px;
+    padding: 0 10px;
+  }
+  .links{
+    padding: 10px;
   }
   }
   
