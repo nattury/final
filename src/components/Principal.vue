@@ -155,5 +155,14 @@ export default {
     padding: 10px;
   }
   }
+
+  @media(max-width: 550px){
+    .contenedor{
+    width: 15%;
+  }
+  .foot{
+    padding-top: 20px;
+  }
+  }
   
 </style>

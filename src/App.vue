@@ -103,7 +103,7 @@ body {
 
 @media(max-width: 800px){
   .comun{
-    font-size: 22px;
+    font-size: 24px;
   }
 
   .logo{
@@ -117,6 +117,16 @@ body {
   .links{
     padding: 10px;
   }
+}
+
+@media(max-width: 800px){
+  .comun{
+    font-size: 21px;
+  }
+  .logo{
+    width: 150px;
+  }
+
 }
     
 </style>
