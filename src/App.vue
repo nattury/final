@@ -110,9 +110,13 @@ body {
     width: 200px;
   }
 
-  /* .links{
+  .encabezado{
+    padding-right: 0;
+  }
+
+  .links{
     padding: 10px;
-  } */
+  }
 }
     
 </style>
