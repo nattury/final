@@ -95,10 +95,10 @@ body {
   width: 29%;
 }
 
-@media screen and (min-width: 800px){
+/* @media screen and (min-width: 800px){
   body{
     background: #ff8000;
   }
-}
+} */
     
 </style>
