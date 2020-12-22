@@ -87,7 +87,7 @@ body {
 
 .links {
   text-decoration: none;
-  padding: 40px;
+  padding: 5%;
   margin: 10px;
 }
 
@@ -110,9 +110,9 @@ body {
     width: 200px;
   }
 
-  .links{
+  /* .links{
     padding: 10px;
-  }
+  } */
 }
     
 </style>
