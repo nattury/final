@@ -144,9 +144,9 @@ export default {
     width: 90%;
   }
 
-  .contenedor{
+  /* .contenedor{
     width: 60%;
-  }
+  } */
   }
   
 </style>
