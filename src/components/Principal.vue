@@ -34,6 +34,7 @@ export default {
 };
 </script>
 <style>
+
 .principal{
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -103,7 +104,7 @@ export default {
     }
 
 .info {
-  padding-top: 180px;
+  padding-top: 40%;
   width: 60%;
 }
 
@@ -141,7 +142,6 @@ export default {
 @media(max-width: 800px){
   .foot {
     width: 90%;
-    height: 28%;
   }
   }
   
