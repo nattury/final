@@ -11,7 +11,7 @@
             </div>
         <p class="info">¡Hello there! <br>
             It is nice to see you. <br><br>
-            It is a pleasure for us that you come to our facilities. Here will be the place where you will be <br>
+            It is a pleasure for us that you come to our facilities. Here will be the place where you will be
             like home with the most comfortable and relaxing rooms and service.</p>
     </main>
     <footer class="foot">
@@ -135,7 +135,7 @@ export default {
 }
 
 .menubajo{
-  width:70%;
+  width: 65%;
 }
 
 @media(max-width: 800px){
