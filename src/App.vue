@@ -101,7 +101,7 @@ body {
   }
 } */
 
-@media (max-width: 800px){
+@media(max-width: 800px){
   .comun{
     font-size: 12px;
   }
