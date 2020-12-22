@@ -124,7 +124,7 @@ body {
     font-size: 21px;
   }
   .logo{
-    width: 150px;
+    width: 120px;
   }
 
 }
