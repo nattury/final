@@ -100,5 +100,11 @@ body {
     background: #ff8000;
   }
 } */
+
+@media (max-width: 800px){
+  .comun{
+    font-size: 12px;
+  }
+}
     
 </style>
