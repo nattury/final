@@ -87,7 +87,7 @@ body {
 
 .links {
   text-decoration: none;
-  padding: 40px ;
+  padding: 40px;
   margin: 10px;
 }
 
@@ -111,7 +111,7 @@ body {
   }
 
   .links{
-    padding: -20px;
+    padding: 10px;
   }
 }
     

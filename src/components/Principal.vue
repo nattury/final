@@ -104,6 +104,7 @@ export default {
 
 .info {
   padding-top: 180px;
+  width: 60%;
 }
 
 .foot {
@@ -135,7 +136,9 @@ export default {
 
 @media(max-width: 800px){
   .foot {
-  height: 28%;
-  }}
+    width: 90%;
+    height: 28%;
+  }
+  }
   
 </style>
